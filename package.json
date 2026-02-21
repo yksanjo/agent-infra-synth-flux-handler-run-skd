@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-flux-handler-run-skd",
+  "version": "1.0.0",
+  "description": "Cache and performance optimization layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-flux-handler-run-skd"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-flux-handler-run-skd.git"
+  }
+}
